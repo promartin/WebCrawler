@@ -1,0 +1,11 @@
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe.config
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.exe
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\WebCrawler.pdb
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csprojAssemblyReference.cache
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CoreCompileInputs.cache
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.csproj.CopyComplete
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.exe
+C:\Users\serdu\source\repos\WebCrawler\WebCrawler\obj\Debug\WebCrawler.pdb

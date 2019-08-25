@@ -1,0 +1,466 @@
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;PowerColor RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;PowerColor RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;PowerColor RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;PowerColor RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V340 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro WX 8200;PCIe 3.0 x16;8GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon RX 550X;PCIe 3.0 x8;4GB;Dualslot;50W;None;145mm;designs;Dell RX 550X
+
+AMD;Radeon RX 550X 640SP;PCIe 3.0 x8;2GB;Dualslot;60W;None;145mm
+
+AMD;Radeon RX 560DX;PCIe 3.0 x8;4GB;Dualslot;65W;None;170mm;designs;Dell RX 560DX OEM
+
+AMD;Radeon RX 560X;PCIe 3.0 x8;4GB;Dualslot;75W;None;170mm;designs;Dell RX 560X OEM
+
+AMD;Radeon RX 570G;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm
+
+AMD;Radeon RX 570X;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm;designs;Dell RX 570X OEM
+
+AMD;Radeon RX 580 2048SP;PCIe 3.0 x16;4GB;Dualslot;150W;1x8pin;241mm;designs;AMD Radeon RX 580 2048SP 8 GB;Dataland RX 580 2048SP X-Serial;Dataland RX 580 2048SP X-Serial 8 GB;MAXSUN RX 580 2048SP Big Mac;MSI RX 580 2048SP ARMOR;MSI RX 580 2048SP ARMOR 8 GB;Sapphire RX 580 2048SP OC;Sapphire RX 580 2048SP OC 8 GB;XFX RX 580 2048SP Black Wolf;XFX RX 580 2048SP Black Wolf 8 GB
+
+AMD;Radeon RX 580G;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Sapphire RX 580G Platinum Edition
+
+AMD;Radeon RX 580X;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Dell RX 580X OEM
+
+AMD;Radeon RX 590;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;241mm;designs;ASRock Phantom Gaming U RX 590 OC;ASRock Phantom Gaming X RX 590 OC;ASUS ROG STRIX RX 590 GAMING;GIGABYTE RX 590 GAMING;HIS RX 590 IceQ X2;HIS RX 590 IceQ X2 OC;MSI RX 590 ARMOR;MSI RX 590 ARMOR OC;PowerColor Red Devil RX 590 OC;PowerColor Red Devil RX 590 OC V2;PowerColor Red Dragon RX 590;Sapphire NITRO+ RX 590;Sapphire NITRO+ RX 590 AMD 50 Gold Edition;Sapphire NITRO+ RX 590 Special Edition;VisionTek RX 590 OC Limited Edition;XFX RX 590 50th Anniversary;XFX RX 590 Fatboy;XFX RX 590 Fatboy OC+;Yeston RX 590 Game Master
+
+AMD;Radeon RX Vega 11;IGP;SystemShared;IGP;65W;None;
+
+AMD;Radeon RX Vega 11 Efficient;IGP;SystemShared;IGP;35W;None;
+
+AMD;Radeon RX Vega Nano;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;152mm
+
+AMD;Radeon Vega 11 Embedded;IGP;SystemShared;IGP;35W;None;
+
+AMD;Radeon Vega 3 Efficient;IGP;SystemShared;IGP;15W;None;
+
+AMD;Radeon Vega 3 Embedded;IGP;SystemShared;IGP;15W;None;
+
+AMD;Radeon Vega 8;IGP;SystemShared;IGP;65W;None;
+
+AMD;Radeon Vega 8 Efficient;IGP;SystemShared;IGP;35W;None;
+
+AMD;Radeon Vega 8 Embedded;IGP;SystemShared;IGP;15W;None;
+
+AMD;Radeon 550;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm;designs;ASRock Phantom Gaming 550
+
+AMD;Radeon Instinct MI25;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Instinct MI25 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro Duo Polaris;PCIe 3.0 x16;16GB;Dualslot;250W;1x6pin1x8pin;305mm
+
+AMD;Radeon Pro SSG;PCIe 3.0 x16;16GB;Dualslot;350W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V320;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V320 MxGPU;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro WX 2100;PCIe 3.0 x8;2GB;Singleslot;35W;None;168mm
+
+AMD;Radeon Pro WX 3100;PCIe 3.0 x8;4GB;Singleslot;65W;None;145mm
+
+AMD;Radeon Pro WX 8100;PCIe 3.0 x16;8GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro WX 9100;PCIe 3.0 x16;16GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon R5 Graphics;IGP;SystemShared;IGP;15W;;
+
+AMD;Radeon RX 460 1024SP;PCIe 3.0 x8;2GB;Dualslot;75W;None;170mm;designs;Sapphire NITRO RX 460 OC 4 GB;XFX RX 460 OC 4 GB
+
+AMD;Radeon RX 550;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm;designs;ASRock Phantom Gaming RX 550;ASRock Phantom Gaming RX 550 4 GB;ASUS RX 550 Single Fan;ASUS RX 550 Single Fan 4 GB;BIOSTAR RX 550;ColorFire RX 550 Armor;ColorFire RX 550 Armor 4 GB;ColorFire RX 550 Defender;Dataland RX 550 Dual Cool;Dataland RX 550 Dual Cool 4 GB;Dataland RX 550 Super;GIGABYTE RX 550;GIGABYTE RX 550 GAMING OC;HIS RX 550 GREEN iCooler OC;HIS RX 550 GREEN iCooler OC 4 GB;HIS RX 550 GREEN Slim-iCooler OC;HIS RX 550 GREEN Slim-iCooler OC 4 GB;KUROTOSHIKOU RX 550;KUROTOSHIKOU RX 550 Short;MAXSUN RX 550 Transformer;MAXSUN RX 550 Transformer M.2;MAXSUN RX 550 Transformer M.3;MSI RX 550 AERO ITX;MSI RX 550 AERO ITX 4 GB;MSI RX 550 AERO ITX OC;MSI RX 550 AERO ITX OC 4 GB;MSI RX 550 Low Profile OC;PowerColor Red Dragon RX 550;PowerColor Red Dragon RX 550 4 GB;PowerColor Red Dragon RX 550 V2;Sapphire PULSE RX 550;Sapphire PULSE RX 550 4 GB;Sapphire RX 550 Low Profile 4 GB;XFX RX 550 Low Profile OC;XFX RX 550 Low Profile OC 4 GB;XFX RX 550 OC;XFX RX 550 OC 4 GB;XFX RX 550 Single Slot OC;XFX RX 550 Single Slot OC 4 GB;Yeston RX 550 GAEA;Yeston RX 550 Speed Edition
+
+AMD;Radeon RX 550 640SP;PCIe 3.0 x8;2GB;Dualslot;60W;None;145mm;designs;AREZ PHOENIX RX 550;AREZ PHOENIX RX 550 M7 4 GB;ASUS PHOENIX RX 550 4 GB;ASUS PHOENIX RX 550 M7 4 GB;Sapphire PULSE RX 550;Sapphire PULSE RX 550 4 GB
+
+AMD;Radeon RX 560;PCIe 3.0 x8;4GB;Dualslot;75W;None;170mm;designs;AREZ STRIX RX 560 GAMING;AREZ STRIX RX 560 GAMING OC;ASUS RX 560 Dual Fan 2 GB;ASUS RX 560 Dual Fan 4 GB;ASUS ROG STRIX RX 560 GAMING;ASUS ROG STRIX RX 560 GAMING OC;BIOSTAR RX 560;BIOSTAR RX 560 Dual Cooling;ColorFire RX 560;ColorFire RX 560 V2;Dataland RX 560 X-Serial God of War 2 GB;Dataland RX 560 X-Serial God of War 4 GB;Dataland RX 560 X-Serial War 2 GB;Dataland RX 560 X-Serial War 4 GB;GIGABYTE RX 560 GAMING OC 2 GB;GIGABYTE RX 560 GAMING OC 4 GB;HIS RX 560 iCooler OC 2 GB;KUROTOSHIKOU RX 560;MSI RX 560 AERO ITX OC 2 GB;MSI RX 560 Low Profile 2 GB;MSI RX 560 Low Profile 4 GB;PowerColor Red Dragon RX 560 OC 4 GB;PowerColor Red Dragon RX 560 OC V2 2 GB;PowerColor Red Dragon RX 560 OC V2 4 GB;PowerColor Red Dragon RX 560 OC V3 2 GB;PowerColor Red Dragon RX 560 OC V3 4 GB;Sapphire PULSE RX 560 2 GB 45W;Sapphire PULSE RX 560 4 GB;Sapphire PULSE RX 560 4 GB 45W;Sapphire PULSE RX 560 Mining;Sapphire PULSE RX 560 OC 2 GB;Sapphire PULSE RX 560 OC 4 GB;VisionTek RX 560 Overclocked;XFX RX 560 Black Wolf OC 2 GB;XFX RX 560 Double Dissipation OC 2 GB;XFX RX 560 Double Dissipation OC 4 GB;XFX RX 560 Single Fan OC 2 GB;XFX RX 560 Single Fan OC 4 GB;XFX RX 560 Slim Single Slot OC;Yeston RX 560 GAEA
+
+AMD;Radeon RX 560 896SP;PCIe 3.0 x8;4GB;Dualslot;45W;None;170mm;designs;ASUS RX 560 Dual Fan OC 2 GB;ASUS RX 560 Dual Fan OC 4 GB;GIGABYTE RX 560 GAMING OC Rev. 2.0;MSI RX 560 AERO ITX OC
+
+AMD;Radeon RX 560D;PCIe 3.0 x8;4GB;Dualslot;65W;None;170mm;designs;AREZ RX 560 EVO 2 GB;AREZ RX 560 EVO 4 GB;AREZ RX 560 EVO OC 2 GB;AREZ RX 560 EVO OC 4 GB;ASRock Phantom Gaming RX 560 2 GB;ASRock Phantom Gaming RX 560 4 GB;ASUS RX 560 EVO OC;ASUS ROG STRIX RX 560 EVO GAMING OC;Dataland RX 560D Dual Stability;Dataland RX 560D X-Serial;Dell RX 560D OEM OC 2 GB;EMTEK HV RX 560D NANO;GIGABYTE RX 560 OC 2 GB;GIGABYTE RX 560 OC 4 GB;GIGABYTE RX 560 OC Rev. 2.0;HIS RX 560 GREEN iCooler OC 2 GB;HIS RX 560 GREEN iCooler OC 4 GB;MAXSUN RX 560D Terminator 2 GB;MAXSUN RX 560D Terminator 4 GB;MSI RX 560 AERO ITX OC;PowerColor Red Dragon RX 560 14CU 2 GB;PowerColor Red Dragon RX 560 14CU 4 GB;PowerColor Red Dragon RX 560 14CU V2 2 GB;Sapphire PULSE RX 560 OC;Sapphire PULSE RX 560D OC 2 GB;Sapphire PULSE RX 560D OC 4 GB;XFX RX 560D Double Dissipation;XFX RX 560D Single Fan OC 2 GB;XFX RX 560D Single Fan OC 4 GB;Yeston RX 560D GAEA
+
+AMD;Radeon RX 570;PCIe 3.0 x16;4GB;Dualslot;120W;1x6pin;241mm;designs;AREZ EXPEDITION RX 570;AREZ EXPEDITION RX 570 OC;AREZ EXPEDITION RX 570 OC 8 GB;AREZ STRIX RX 570 GAMING;AREZ STRIX RX 570 GAMING OC;ASRock Phantom Gaming D RX 570;ASRock Phantom Gaming D RX 570 OC 8 GB;ASRock Phantom Gaming M1 RX 570;ASRock Phantom Gaming M1 RX 570 8 GB;ASRock Phantom Gaming X RX 570 OC;ASRock Phantom Gaming X RX 570 OC 8 GB;ASUS EXPEDITION RX 570;ASUS EXPEDITION RX 570 OC;ASUS EXPEDITION RX 570 OC 8 GB;ASUS ROG STRIX RX 570 GAMING;ASUS ROG STRIX RX 570 GAMING OC;BIOSTAR RX 570;BIOSTAR RX 570 Avenger;ColorFire RX 570 Ustorm;Dataland RX 570 Dual Cool;Dataland RX 570 X-Serial;Dataland RX 570 X-Serial War;Dataland RX 570 X-Serial War 8 GB;GIGABYTE AORUS RX 570;GIGABYTE RX 570 GAMING;GIGABYTE RX 570 GAMING 8 GB;GIGABYTE RX 570 GAMING MINING;GIGABYTE RX 580 GAMING MINING Rev. 1.1;HIS RX 570 IceQ X2 OC;HIS RX 570 IceQX2 Turbo;KUROTOSHIKOU RX 570;MAXSUN RX 570 Big Mac;MAXSUN RX 570 Big Mac 8 GB;MAXSUN RX 570 Diamond;MAXSUN RX 570 Giant;MAXSUN RX 570 Overseas Edition;MAXSUN RX 570 Overseas Edition M.2;MAXSUN RX 570 Overseas Edition M.3;MAXSUN RX 570 Overseas Edition M.4;MAXSUN RX 570 Overseas Edition V2;MAXSUN RX 570 Overseas Edition V2 8 GB;MAXSUN RX 570 Platinum I;MSI RX 570 ARMOR;MSI RX 570 ARMOR 8 GB;MSI RX 570 ARMOR MK2;MSI RX 570 ARMOR MK2 OC;MSI RX 570 ARMOR OC;MSI RX 570 ARMOR OC 8 GB;MSI RX 570 GAMING;MSI RX 570 GAMING 8 GB;MSI RX 570 GAMING X;MSI RX 570 GAMING X 8 GB;MSI RX 570 MECH 2 OC 8 GB;ONDA RX 570 Model;PowerColor Red Devil RX 570 OC;PowerColor Red Dragon RX 570 OC;PowerColor Red Dragon RX 570 OC 8 GB;Pradeon RX 570;Sapphire NITRO+ RX 570;Sapphire NITRO+ RX 570 8 GB;Sapphire PULSE RX 570;Sapphire PULSE RX 570;Sapphire PULSE RX 570 8 GB;Sapphire PULSE RX 570 ITX MINI;Sapphire PULSE RX 570 V2 8 GB;Sapphire RX 570 Blockchain;VisionTek RX 570 Overclocked;XFX RS RX 570 Black Edition;XFX RS RX 570 Black Edition 8 GB;XFX RS RX 570 XXX;Yeston RX 570 GAMEACE
+
+AMD;Radeon RX 580;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;AMD Radeon RX 580;AREZ DUAL RX 580 4 GB;AREZ DUAL RX 580 8 GB;AREZ DUAL RX 580 OC 4 GB;AREZ DUAL RX 580 OC 8 GB;AREZ STRIX RX 580 GAMING;AREZ STRIX RX 580 GAMING OC;AREZ STRIX RX 580 GAMING TOP;ASRock Phantom Gaming D RX 580 OC 4 GB;ASRock Phantom Gaming D RX 580 OC 8 GB;ASRock Phantom Gaming M2 RX 580;ASRock Phantom Gaming X RX 580 OC;ASUS DUAL RX 580 4 GB;ASUS DUAL RX 580 8 GB;ASUS DUAL RX 580 OC 4 GB;ASUS DUAL RX 580 OC 8 GB;ASUS ROG STRIX RX 580 GAMING;ASUS ROG STRIX RX 580 GAMING OC;ASUS ROG STRIX RX 580 GAMING TOP;BIOSTAR RX 580;BIOSTAR RX 580 Dual Cooling;ColorFire RX 580 Ustorm;Dataland DEVIL RX 580 OC;Dataland RX 580 X-Serial 18th Anniversary;Dataland RX 580 X-Serial 4 GB;Dataland RX 580 X-Serial 8 GB;Dataland RX 580 X-Serial God of War 4 GB;Dataland RX 580 X-Serial God of War 8 GB;Diamond RX 580;GIGABYTE AORUS RX 580 4 GB;GIGABYTE AORUS RX 580 8 GB;GIGABYTE AORUS RX 580 XTR;GIGABYTE RX 580;GIGABYTE RX 580 GAMING 4 GB;GIGABYTE RX 580 GAMING 8 GB;GIGABYTE RX 580 Gaming Box;GIGABYTE RX 580 GAMING Mining 4 GB;GIGABYTE RX 580 GAMING Mining 8 GB;HIS RX 580 IceQ X2 OC 4 GB;HIS RX 580 IceQ X2 OC 8 GB;HIS RX 580 IceQ X2 Turbo;HIS RX 580 XTR IceQ X2 Roaring Turbo;KUROTOSHIKOU RX 580;MAXSUN RX 580 Big Mac 4 GB;MAXSUN RX 580 Big Mac 8 GB;MAXSUN RX 580 JetStream 4 GB;MAXSUN RX 580 JetStream 8 GB;MAXSUN RX 580 Overseas Edition 4 GB;MAXSUN RX 580 Overseas Edition 4 GB;MAXSUN RX 580 Overseas Edition M.2 4 GB;MAXSUN RX 580 Overseas Edition M.2 8 GB;MAXSUN RX 580 Overseas Edition M.2 8 GB;MSI RX 580;MSI RX 580 ARMOR 4 GB;MSI RX 580 ARMOR 8 GB;MSI RX 580 ARMOR MK2;MSI RX 580 ARMOR MK2 OC;MSI RX 580 ARMOR OC 4 GB;MSI RX 580 ARMOR OC 8 GB;MSI RX 580 GAMING;MSI RX 580 GAMING X 4 GB;MSI RX 580 GAMING X 8 GB;MSI RX 580 GAMING X+;MSI RX 580 GAMING+;MSI RX 580 MECH 2 OC;MSI RX 580 V1;ONDA RX 580 Model 4 GB;PCYES RX 580;PowerColor Red Devil RX 580 Golden Sample OC;PowerColor Red Devil RX 580 OC;PowerColor Red Dragon RX 580 OC 4 GB;PowerColor Red Dragon RX 580 OC 8 GB;PowerColor Red Dragon RX 580 OC V2;PowerColor RX 580 Mining;Pradeon RX 580 4 GB;Pradeon RX 580 8 GB;Sapphire NITRO+ RX 580 4 GB;Sapphire NITRO+ RX 580 8 GB;Sapphire NITRO+ RX 580 Limited Edition;Sapphire NITRO+ RX 580 Special Edition;Sapphire NITRO+ RX 580 Special Edition V2;Sapphire NITRO+ RX 580 V2 8 GB;Sapphire PULSE RX 580 4 GB;Sapphire PULSE RX 580 8 GB;Sapphire PULSE RX 580 8 GB;Sapphire PULSE RX 580 V2 8 GB;VisionTek RX 580 Overclocked;XFX GTR RX 580 Black Edition OC;XFX GTR RX 580 XXX OC;XFX GTR-S RX 580 Black Limited Edition OC+;XFX GTR-S RX 580 Black Limited Edition OC+;XFX GTS RX 580 Black Edition;XFX GTS RX 580 Black Edition;XFX GTS RX 580 XXX 4 GB;XFX GTS RX 580 XXX 8 GB;Yeston RX 580 GAMEACE 4 GB;Yeston RX 580 GAMEACE 8 GB
+
+AMD;Radeon RX Vega 56;PCIe 3.0 x16;8GB;Dualslot;210W;2x8pin;267mm;designs;AREZ STRIX RX Vega 56 GAMING OC;ASRock Phantom Gaming X Vega 56;ASUS ROG STRIX RX Vega 56 GAMING;ASUS ROG STRIX RX Vega 56 GAMING OC;BIOSTAR RX Vega 56;Dataland DEVIL RX Vega 56 OC;Dataland RX Vega 56;Dataland RX Vega 56 X-Serial;GIGABYTE RX Vega 56;GIGABYTE RX Vega 56 GAMING OC;HIS RX Vega 56 Air Black;MSI RX Vega 56;MSI RX Vega 56 Air Boost;MSI RX Vega 56 Air Boost OC;PowerColor Red Devil RX Vega 56 OC;PowerColor Red Dragon RX Vega 56 OC;PowerColor RX Vega 56;PowerColor RX Vega 56 Nano;PowerColor RX Vega 56 Nano Prototype;Sapphire NITRO+ RX Vega 56;Sapphire NITRO+ RX Vega 56 Limited Edition;Sapphire PULSE RX Vega 56;Sapphire RX Vega 56;XFX RX Vega 56;XFX RX Vega 56 Double Edition;Yeston RX Vega 56
+
+AMD;Radeon RX Vega 64;PCIe 3.0 x16;8GB;Dualslot;295W;2x8pin;279mm;designs;AREZ STRIX RX Vega 64 GAMING OC;ASRock Phantom Gaming X RX Vega 64;ASUS RX Vega 64;ASUS ROG STRIX RX Vega 64 GAMING;ASUS ROG STRIX RX Vega 64 GAMING OC;BIOSTAR RX Vega 64;Dataland DEVIL RX Vega 64 OC;Dataland RX Vega 64;GIGABYTE RX Vega 64;GIGABYTE RX Vega 64 GAMING OC;HIS RX Vega AIR Black;MAXSUN RX Vega 64;MSI RX Vega 64;MSI RX Vega 64 Air Boost OC;PowerColor Red Devil RX Vega 64 OC;PowerColor Red Dragon RX Vega 64 OC;PowerColor RX Vega 64;Sapphire NITRO+ RX Vega 64;Sapphire NITRO+ RX Vega 64 Limited Edition;Sapphire RX Vega 64;VisionTek RX Vega 64 Black;XFX RX Vega 64;XFX RX Vega 64 Double Edition;Yeston RX Vega 64
+
+AMD;Radeon RX Vega 64 Limited Edition;PCIe 3.0 x16;8GB;Dualslot;295W;2x8pin;282mm;designs;AMD Radeon RX Vega 64 Limited Edition LTX2017;ASUS RX Vega 64 Silver;Dataland RX Vega 64 Limited;GIGABYTE RX Vega 64 Silver;HIS RX Vega 64 Air Limited;MSI RX Vega 64 Iron;PowerColor RX Vega 64 Limited Edition;Sapphire RX Vega 64 Limited Edition;XFX RX Vega 64 Silver
+
+AMD;Radeon RX Vega 64 Liquid Cooling;PCIe 3.0 x16;8GB;Dualslot;345W;2x8pin;282mm;designs;ASUS RX Vega 64 Liquid Cooling;BIOSTAR RX Vega 64 Liquid;Dataland RX Vega 64 Liquid;GIGABYTE RX Vega 64 Watercooling;HIS RX Vega 64 Liquid Cooling;MSI RX Vega 64 Wave;PowerColor RX Vega 64 Liquid Cooling;Sapphire RX Vega 64 Liquid Cooling;XFX RX Vega 64 Liquid Cooling;Yeston RX Vega 64 Liquid Cooling
+
+AMD;Radeon Vega Frontier Edition;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Vega Frontier Edition Watercooled;PCIe 3.0 x16;16GB;Dualslot;375W;2x8pin;267mm
+
+AMD;FirePro S7150;PCIe 3.0 x16;8GB;Singleslot;150W;1x6pin;241mm
+
+AMD;FirePro S7150 x2;PCIe 3.0 x16;8GB;Dualslot;265W;1x6pin1x8pin;241mm
+
+AMD;FirePro S9300 X2;PCIe 3.0 x16;4GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Instinct MI6;PCIe 3.0 x16;8GB;Singleslot;150W;1x6pin;241mm
+
+AMD;Radeon Instinct MI8;PCIe 3.0 x16;4GB;Dualslot;175W;1x8pin;152mm
+
+AMD;Radeon Pro Duo;PCIe 3.0 x16;4GB;Dualslot;350W;3x8pin;277mm
+
+AMD;Radeon Pro V5300X;PCIe 3.0 x8;4GB;Singleslot;50W;None;
+
+AMD;Radeon Pro V7300X;PCIe 3.0 x16;8GB;Singleslot;130W;1x6pin;241mm
+
+AMD;Radeon Pro V7350X2;PCIe 3.0 x16;8GB;Singleslot;200W;1x8pin;241mm
+
+AMD;Radeon Pro WX 4100;PCIe 3.0 x8;4GB;Singleslot;50W;None;
+
+AMD;Radeon Pro WX 5100;PCIe 3.0 x16;8GB;Singleslot;75W;None;
+
+AMD;Radeon Pro WX 7100;PCIe 3.0 x16;8GB;Singleslot;130W;1x6pin;241mm
+
+AMD;Radeon R5 430 OEM;PCIe 3.0 x8;2GB;Singleslot;50W;None;;designs;Dell R5 430
+
+AMD;Radeon R5 435 OEM;PCIe 3.0 x8;2GB;Singleslot;50W;None;;designs;MSI R5 435
+
+AMD;Radeon R7 350;PCIe 3.0 x16;2GB;Singleslot;55W;None;168mm;designs;Yeston R7 350 4 GB
+
+AMD;Radeon R7 430 OEM;PCIe 3.0 x8;2GB;Singleslot;50W;None;
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;PowerColor RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;PowerColor RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;None
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;None
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V340 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro WX 8200;PCIe 3.0 x16;8GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon RX 550X;PCIe 3.0 x8;4GB;Dualslot;50W;None;145mm;designs;Dell RX 550X
+
+AMD;Radeon RX 550X 640SP;PCIe 3.0 x8;2GB;Dualslot;60W;None;145mm
+
+AMD;Radeon RX 560DX;PCIe 3.0 x8;4GB;Dualslot;65W;None;170mm;designs;Dell RX 560DX OEM
+
+AMD;Radeon RX 560X;PCIe 3.0 x8;4GB;Dualslot;75W;None;170mm;designs;Dell RX 560X OEM
+
+AMD;Radeon RX 570G;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;PowerColor RX 5700;Sapphire PULSE RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;PowerColor RX 5700 XT;Sapphire PULSE RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;None
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;None
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V340 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro WX 8200;PCIe 3.0 x16;8GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon RX 550X;PCIe 3.0 x8;4GB;Dualslot;50W;None;145mm;designs;Dell RX 550X
+
+AMD;Radeon RX 550X 640SP;PCIe 3.0 x8;2GB;Dualslot;60W;None;145mm
+
+AMD;Radeon RX 560DX;PCIe 3.0 x8;4GB;Dualslot;65W;None;170mm;designs;Dell RX 560DX OEM
+
+AMD;Radeon RX 560X;PCIe 3.0 x8;4GB;Dualslot;75W;None;170mm;designs;Dell RX 560X OEM
+
+AMD;Radeon RX 570G;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm
+
+AMD;Radeon RX 570X;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm;designs;Dell RX 570X OEM
+
+AMD;Radeon RX 580 2048SP;PCIe 3.0 x16;4GB;Dualslot;150W;1x8pin;241mm;designs;AMD Radeon RX 580 2048SP 8 GB;Dataland RX 580 2048SP X-Serial;Dataland RX 580 2048SP X-Serial 8 GB;MAXSUN RX 580 2048SP Big Mac;MSI RX 580 2048SP ARMOR;MSI RX 580 2048SP ARMOR 8 GB;Sapphire RX 580 2048SP OC;Sapphire RX 580 2048SP OC 8 GB;XFX RX 580 2048SP Black Wolf;XFX RX 580 2048SP Black Wolf 8 GB
+
+AMD;Radeon RX 580G;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Sapphire RX 580G Platinum Edition
+
+AMD;Radeon RX 580X;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Dell RX 580X OEM
+
+AMD;Radeon RX 590;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;241mm;designs;ASRock Phantom Gaming U RX 590 OC;ASRock Phantom Gaming X RX 590 OC;ASUS ROG STRIX RX 590 GAMING;GIGABYTE RX 590 GAMING;HIS RX 590 IceQ X2;HIS RX 590 IceQ X2 OC;MSI RX 590 ARMOR;MSI RX 590 ARMOR OC;PowerColor Red Devil RX 590 OC;PowerColor Red Devil RX 590 OC V2;PowerColor Red Dragon RX 590;Sapphire NITRO+ RX 590;Sapphire NITRO+ RX 590 AMD 50 Gold Edition;Sapphire NITRO+ RX 590 Special Edition;VisionTek RX 590 OC Limited Edition;XFX RX 590 50th Anniversary;XFX RX 590 Fatboy;XFX RX 590 Fatboy OC+;Yeston RX 590 Game Master
+
+AMD;Radeon RX Vega 11;IGP;SystemShared;IGP;65W;None;None
+
+AMD;Radeon RX Vega 11 Efficient;IGP;SystemShared;IGP;35W;None;None
+
+AMD;Radeon RX Vega Nano;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;152mm
+
+AMD;Radeon Vega 11 Embedded;IGP;SystemShared;IGP;35W;None;None
+
+AMD;Radeon Vega 3 Efficient;IGP;SystemShared;IGP;15W;None;None
+
+AMD;Radeon Vega 3 Embedded;IGP;SystemShared;IGP;15W;None;None
+
+AMD;Radeon Vega 8;IGP;SystemShared;IGP;65W;None;None
+
+AMD;Radeon Vega 8 Efficient;IGP;SystemShared;IGP;35W;None;None
+
+AMD;Radeon Vega 8 Embedded;IGP;SystemShared;IGP;15W;None;None
+
+AMD;Radeon 550;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm;designs;ASRock Phantom Gaming 550
+
+AMD;Radeon Instinct MI25;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Instinct MI25 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro Duo Polaris;PCIe 3.0 x16;16GB;Dualslot;250W;1x6pin1x8pin;305mm
+
+AMD;Radeon Pro SSG;PCIe 3.0 x16;16GB;Dualslot;350W;1x6pin1x8pin;267mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;MSI RX 5700 EVOKE;MSI RX 5700 EVOKE OC;MSI RX 5700 MECH;MSI RX 5700 MECH OC;PowerColor RX 5700;Sapphire PULSE RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;ASUS ROG STRIX RX 5700 XT GAMING OC;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;MSI RX 5700 XT EVOKE;MSI RX 5700 XT EVOKE OC;MSI RX 5700 XT MECH;MSI RX 5700 XT MECH OC;PowerColor RX 5700 XT;Sapphire PULSE RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;None
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;None
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;MSI RX 5700 EVOKE;MSI RX 5700 EVOKE OC;MSI RX 5700 MECH;MSI RX 5700 MECH OC;PowerColor RX 5700;Sapphire PULSE RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;ASUS ROG STRIX RX 5700 XT GAMING OC;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;MSI RX 5700 XT EVOKE;MSI RX 5700 XT EVOKE OC;MSI RX 5700 XT MECH;MSI RX 5700 XT MECH OC;PowerColor RX 5700 XT;Sapphire PULSE RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;None
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;None
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V340 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon 540;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 630;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon RX 560 XT;PCIe 3.0 x16;4GB;Dualslot;150W;1x6pin;241mm;designs;Sapphire PULSE RX 560 XT Platinum Edition OC
+
+AMD;Radeon RX 5700;PCIe 4.0 x16;8GB;Dualslot;180W;1x6pin1x8pin;268mm;designs;ASRock Challenger D RX 5700 OC;ASRock RX 5700;Dataland RX 5700;GIGABYTE RX 5700;HIS RX 5700;MSI RX 5700;MSI RX 5700 EVOKE;MSI RX 5700 EVOKE OC;MSI RX 5700 MECH;MSI RX 5700 MECH OC;PowerColor RX 5700;Sapphire PULSE RX 5700;Sapphire RX 5700;XFX RX 5700
+
+AMD;Radeon RX 5700 XT;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;272mm;designs;ASRock Challenger D RX 5700 XT OC;ASRock RX 5700 XT;ASUS ROG STRIX RX 5700 XT GAMING OC;Dataland RX 5700 XT;GIGABYTE RX 5700 XT;HIS RX 5700 XT;MSI RX 5700 XT;MSI RX 5700 XT EVOKE;MSI RX 5700 XT EVOKE OC;MSI RX 5700 XT MECH;MSI RX 5700 XT MECH OC;PowerColor RX 5700 XT;Sapphire PULSE RX 5700 XT;Sapphire RX 5700 XT;XFX RX 5700 XT
+
+AMD;Radeon RX 5700 XT 50th Anniversary;PCIe 4.0 x16;8GB;Dualslot;225W;1x6pin1x8pin;None
+
+AMD;Radeon RX 640;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon VII;PCIe 3.0 x16;16GB;Dualslot;295W;2x8pin;305mm;designs;Alienware Radeon VII;AMD Radeon VII 50th Anniversary;ASRock Phantom Gaming X Radeon VII;ASUS Radeon VII;Dataland Radeon VII;GIGABYTE Radeon VII;HIS Radeon VII;KUROTOSHIKOU Radeon VII;MSI Radeon VII;PowerColor Radeon VII;Sapphire Radeon VII;VisionTek Radeon VII;XFX Radeon VII Triple Fan
+
+AMD;Radeon 540X;PCIe 3.0 x8;2GB;Dualslot;50W;None;145mm
+
+AMD;Radeon 550X 640SP;PCIe 3.0 x8;4GB;IGP;50W;None;None
+
+AMD;Radeon Instinct MI50;PCIe 4.0 x16;16GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Instinct MI60;PCIe 4.0 x16;32GB;Dualslot;300W;1x6pin1x8pin;267mm
+
+AMD;Radeon Pro V340;PCIe 3.0 x16;16GB;Dualslot;230W;2x8pin;267mm
+
+AMD;Radeon Pro V340 MxGPU;PCIe 3.0 x16;16GB;Dualslot;300W;2x8pin;267mm
+
+AMD;Radeon Pro WX 8200;PCIe 3.0 x16;8GB;Dualslot;230W;1x6pin1x8pin;267mm
+
+AMD;Radeon RX 550X;PCIe 3.0 x8;4GB;Dualslot;50W;None;145mm;designs;Dell RX 550X
+
+AMD;Radeon RX 550X 640SP;PCIe 3.0 x8;2GB;Dualslot;60W;None;145mm
+
+AMD;Radeon RX 560DX;PCIe 3.0 x8;4GB;Dualslot;65W;None;170mm;designs;Dell RX 560DX OEM
+
+AMD;Radeon RX 560X;PCIe 3.0 x8;4GB;Dualslot;75W;None;170mm;designs;Dell RX 560X OEM
+
+AMD;Radeon RX 570G;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm
+
+AMD;Radeon RX 570X;PCIe 3.0 x16;8GB;Dualslot;120W;1x6pin;241mm;designs;Dell RX 570X OEM
+
+AMD;Radeon RX 580 2048SP;PCIe 3.0 x16;4GB;Dualslot;150W;1x8pin;241mm;designs;AMD Radeon RX 580 2048SP 8 GB;Dataland RX 580 2048SP X-Serial;Dataland RX 580 2048SP X-Serial 8 GB;MAXSUN RX 580 2048SP Big Mac;MSI RX 580 2048SP ARMOR;MSI RX 580 2048SP ARMOR 8 GB;Sapphire RX 580 2048SP OC;Sapphire RX 580 2048SP OC 8 GB;XFX RX 580 2048SP Black Wolf;XFX RX 580 2048SP Black Wolf 8 GB
+
+AMD;Radeon RX 580G;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Sapphire RX 580G Platinum Edition
+
+AMD;Radeon RX 580X;PCIe 3.0 x16;8GB;Dualslot;185W;1x8pin;241mm;designs;Dell RX 580X OEM
+
+AMD;Radeon RX 590;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;241mm;designs;ASRock Phantom Gaming U RX 590 OC;ASRock Phantom Gaming X RX 590 OC;ASUS ROG STRIX RX 590 GAMING;GIGABYTE RX 590 GAMING;HIS RX 590 IceQ X2;HIS RX 590 IceQ X2 OC;MSI RX 590 ARMOR;MSI RX 590 ARMOR OC;PowerColor Red Devil RX 590 OC;PowerColor Red Devil RX 590 OC V2;PowerColor Red Dragon RX 590;Sapphire NITRO+ RX 590;Sapphire NITRO+ RX 590 AMD 50 Gold Edition;Sapphire NITRO+ RX 590 Special Edition;VisionTek RX 590 OC Limited Edition;XFX RX 590 50th Anniversary;XFX RX 590 Fatboy;XFX RX 590 Fatboy OC+;Yeston RX 590 Game Master
+
+AMD;Radeon RX Vega 11;IGP;SystemShared;IGP;65W;None;None
+
+AMD;Radeon RX Vega 11 Efficient;IGP;SystemShared;IGP;35W;None;None
+
+AMD;Radeon RX Vega Nano;PCIe 3.0 x16;8GB;Dualslot;175W;1x8pin;152mm
+
+AMD;Radeon Vega 11 Embedded;IGP;SystemShared;IGP;35W;None;None
+
+AMD;Radeon Vega 3 Efficient;IGP;SystemShared;IGP;15W;None;None
+
+AMD;Radeon Vega 3 Embedded;IGP;SystemShared;IGP;15W;None;None
+
+AMD;Radeon Vega 8;IGP;SystemShared;IGP;65W;None;None
+
+AMD;Radeon Vega 8 Efficient;IGP;SystemShared;IGP;35W;None;None
+
