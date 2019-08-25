@@ -45,7 +45,7 @@ namespace WebCrawler
         static async Task Main(string[] args)
         {
             await StartCrawlerAsync();
-            Console.Write("\nCrawling is complete!\nÜgyes egy faszfej vagy! :]");
+            Console.Write("\nCrawling is complete!\nJhaaj de kis ügyes vagy, hogy rágjalak meg! :3");
             Console.ReadLine();
         }
 
